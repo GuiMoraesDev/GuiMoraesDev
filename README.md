@@ -1,7 +1,13 @@
+ <p>Pronouns: Ele/Dele He/Him</p>
+ <p>Langs: 🇧🇷 / 🇺🇸</p>
+ 
+ ##
+ 
  <div>
   <a href="https://github.com/GuiMoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiMoraes&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false&hide=stars,contribs"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiMoraes&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
