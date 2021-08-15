@@ -2,25 +2,25 @@
 <p>Langs: 🇧🇷 / 🇺🇸</p>
 
 <div>
-  <a href="https://twitter.com/GuiiMoraes93" target="_blank">
+  <a href="https://twitter.com/GuiMoraesDev" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       target="_blank"
     />
   </a>
-  <a href="https://instagram.com/guiimoraes93" target="_blank">
+  <a href="https://instagram.com/GuiMoraesDev" target="_blank">
     <img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       target="_blank"
     />
   </a>
-  <a href="https://www.linkedin.com/in/guiimoraes93" target="_blank">
+  <a href="https://www.linkedin.com/in/GuiMoraesDev" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"
     />
   </a>
-  <a href = "mailto:guii.moraes.93@gmail.com">
+  <a href = "mailto:guimoraes.dev@gmail.com">
     <img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
@@ -30,14 +30,14 @@
 
 <br/>
 
-<a href="https://github.com/GuiMoraes">
+<a href="https://github.com/GuiMoraesDev">
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=GuiiMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false&hide=stars,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=GuiMoraesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&disable_animations=false&hide=stars,contribs"
   />
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiMoraes&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMoraesDev&layout=compact&langs_count=7&theme=dracula"
   />
 </a>
   
@@ -110,4 +110,4 @@
   
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/GuiiMoraes/GuiiMoraes/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/GuiMoraesDev/GuiMoraesDev/output/github-contribution-grid-snake.svg)
