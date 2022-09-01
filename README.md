@@ -1,5 +1,5 @@
 <p>Pronouns: Ele/Dele He/Him</p>
-<p>Langs: 🇧🇷 / 🇺🇸</p>
+<p>Langs: pt-🇧🇷 / en</p>
 
 <div>
   <a href="https://twitter.com/GuiMoraesDev" target="_blank">
