@@ -1,15 +1,15 @@
-### Hello, folks  
+### Olá, pessoal  
 
 <br/>
 
-My name is Guilherme (He/Him).  
-I'm from Brazil and I have been working as front-end engineer since 2019.  
-I am skilled at communicating and passionate about how to work efficiently and adapt quickly to new technologies.  
-I love to make things happen. I'm regularly creating and testing new concepts here, so take our time to see my pinned projects
+Meu nome é Guilherme (Ele/Dele).  
+Sou do Brasil e trabalho como engenheiro front-end desde 2019.
+Sou hábil em comunicar e apaixonado por como trabalhar de forma eficiente e me adaptar rapidamente às novas tecnologias.
+Eu amo fazer as coisas acontecerem. Estou regularmente criando e testando novos conceitos aqui, então aproveite para ver meus projetos fixados
 
-Other versions:
+Outras versões:
 
-- <a href="https://github.com/GuiMoraesDev/GuiMoraesDev/blob/main/README_PTBR.md">Portugues brasileiro</a>
+- <a href="https://github.com/GuiMoraesDev/GuiMoraesDev/blob/main/README.md">English</a>
 
 <br/>
 
