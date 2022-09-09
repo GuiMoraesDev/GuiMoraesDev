@@ -15,7 +15,8 @@ Outras versões:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?logo=twitter&logoColor=white&link=https://twitter.com/GuiMoraesDev)](https://twitter.com/GuiMoraesDev)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guimoraesdev/?locale=en_US)](https://www.linkedin.com/in/guimoraesdev/?locale=en_US)
+[![Portfolio Badge](https://img.shields.io/static/v1?label=website&message=portfolio&color=rgb(35,%20143,%20170)&link=https://www.guimoraes.dev/)](https://www.guimoraes.dev/)
 
 <br/>
 
-[![Guilherme Moraes's github stats](https://github-readme-stats.vercel.app/api?username=GuiMoraesDev&theme=dracula&&hide=stars)](https://github.com/GuiMoraesDev)
+[![Guilherme Moraes's github stats](https://github-readme-stats.vercel.app/api?username=GuiMoraesDev&theme=dracula)](https://github.com/GuiMoraesDev)
