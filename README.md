@@ -15,6 +15,7 @@ Other versions:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?logo=twitter&logoColor=white&link=https://twitter.com/GuiMoraesDev)](https://twitter.com/GuiMoraesDev)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guimoraesdev/?locale=en_US)](https://www.linkedin.com/in/guimoraesdev/?locale=en_US)
+[!Portfolio Badge](https://img.shields.io/static/v1?label=website&message=portfolio&color=rgb(35,%20143,%20170)&link=https://www.guimoraes.dev/))(https://www.guimoraes.dev/)]
 
 <br/>
 
