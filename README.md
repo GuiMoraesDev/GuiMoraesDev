@@ -18,4 +18,4 @@ Other versions:
 
 <br/>
 
-[![Guilherme Moraes's github stats](https://github-readme-stats.vercel.app/api?username=GuiMoraesDev&theme=dracula&&hide=stars)](https://github.com/GuiMoraesDev)
+[![Guilherme Moraes's github stats](https://github-readme-stats.vercel.app/api?username=GuiMoraesDev&theme=dracula)](https://github.com/GuiMoraesDev)
