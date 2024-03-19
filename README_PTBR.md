@@ -9,7 +9,7 @@ Sou do Brasil e trabalho como <b>desenvolvedor front-end</b> desde 2019.
 Sou hábil em comunicar e apaixonado por como trabalhar de forma eficiente e me adaptar rapidamente às novas tecnologias.  
 Eu amo fazer as coisas acontecerem. Estou regularmente criando e testando novos conceitos aqui, então aproveite para ver meu [portifolio](https://www.guimoraes.dev/)
 
-[![Guilherme Moraes's github stats](https://github-readme-stats.vercel.app/api?username=GuiMoraesDev&hide=contribs&theme=dracula)](https://github.com/GuiMoraesDev)
+[![Guilherme Moraes's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimoraesdev&theme=github_dark)](https://github.com/GuiMoraesDev)
 
 Outras versões:
 
