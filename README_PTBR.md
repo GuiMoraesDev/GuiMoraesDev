@@ -1,16 +1,28 @@
-# Olá, meu nome é Guilherme (Ele/Dele) 👋
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guimoraesdev/)
-[![Portfolio Badge](https://img.shields.io/static/v1?label=&message=Portfolio&color=49213B&logo=GoogleChrome)](https://www.guimoraes.dev/)
+# Olá, eu sou o Guilherme Moraes 👋
 
-<img src="https://www.guimoraes.dev/cover.png" alt="A cover image do meu site com um texto de apresentacao, meu linkedin e uma foto minha feita por IA" height="300px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimoraesdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-49213B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.guimoraes.dev/)
 
-Sou do Brasil e trabalho como <b>desenvolvedor front-end</b> desde 2019.  
-Sou hábil em comunicar e apaixonado por como trabalhar de forma eficiente e me adaptar rapidamente às novas tecnologias.  
-Eu amo fazer as coisas acontecerem. Estou regularmente criando e testando novos conceitos aqui, então aproveite para ver meu [portifolio](https://www.guimoraes.dev/)
+</div>
 
-[![Guilherme Moraes's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimoraesdev&theme=github_dark)](https://github.com/GuiMoraesDev)
+## Sobre mim
 
-Outras versões:
+Sou desenvolvedor frontend do Brasil com mais de 6 anos de experiência construindo aplicações web modernas e performáticas. Sou apaixonado por fluxos de trabalho eficientes, interfaces limpas e pela capacidade de me adaptar rapidamente a novas tecnologias.
 
-[EN-US](https://github.com/GuiMoraesDev/GuiMoraesDev/blob/main/README.md)
+Estou sempre criando e testando novos conceitos — confira meu [portfólio](https://www.guimoraes.dev/) para ver no que tenho trabalhado.
+
+---
+
+## Estatísticas do GitHub
+
+[![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimoraesdev&theme=github_dark)](https://github.com/GuiMoraesDev)
+
+---
+
+<div align="center">
+
+Outras versões: [EN-US](https://github.com/GuiMoraesDev/GuiMoraesDev/blob/main/README.md)
+
+</div>

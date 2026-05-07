@@ -1,16 +1,28 @@
-# Hello, my name is Guilherme (He/Him) 👋
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guimoraesdev/)
-[![Portfolio Badge](https://img.shields.io/static/v1?label=&message=Portfolio&color=49213B&logo=GoogleChrome)](https://www.guimoraes.dev/)
+# Hi, I'm Guilherme Moraes 👋
 
-<img src="https://www.guimoraes.dev/cover/800p.png" alt="The cover image of my website with a presentation text, my linkedin and a photo of me taken by AI" height="300px" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimoraesdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-49213B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.guimoraes.dev/)
 
-I'm from Brazil and I have been working as <b>frontend developer</b> since 2019.  
-I am skilled at communicating and passionate about how to work efficiently and adapt quickly to new technologies.  
-I love to make things happen. I'm regularly creating and testing new concepts here, so take our time to see my [portfolio website](https://www.guimoraes.dev/)
+</div>
 
-[![Guilherme Moraes's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimoraesdev&theme=github_dark)](https://github.com/GuiMoraesDev)
+## About me
 
-Other versions:
+I'm a frontend developer from Brazil with 6+ years of experience building modern, performant web applications. I'm passionate about efficient workflows, clean interfaces, and adapting quickly to new technologies.
 
-[PT-BR](https://github.com/GuiMoraesDev/GuiMoraesDev/blob/main/README_PTBR.md)
+I regularly create and test new concepts — check out my [portfolio](https://www.guimoraes.dev/) to see what I've been working on.
+
+---
+
+## GitHub stats
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimoraesdev&theme=github_dark)](https://github.com/GuiMoraesDev)
+
+---
+
+<div align="center">
+
+Other versions: [PT-BR](https://github.com/GuiMoraesDev/GuiMoraesDev/blob/main/README_PTBR.md)
+
+</div>
